@@ -41,20 +41,20 @@ Jupyter Notebook: Interactive analysis
 
 The analysis produced several insights into the Paris Airbnb market and the effect of regulations:
 
-# 📈 Market Growth & Regulation Impact
+📈 Market Growth & Regulation Impact
 2008–2016: Strong upward growth in the number of hosts and listings, fueled by rising tourism and market attractiveness.
 2017 Regulation Shift: Introduction of stricter rental policies led to a noticeable slowdown in new host entries. Growth stabilized, but demand continued to hold steady.
-# 💶 Pricing Trends
+💶 Pricing Trends
 Pre-2017: Competitive environment pushed prices down in many categories, improving affordability.
 Post-2017: Supply constraints and regulation compliance led to higher average prices, especially in high-demand neighbourhoods.
-# 🏙️ Locality Insights
+🏙️ Locality Insights
 Central Paris (1st–7th arrondissements): Premium zones commanding significantly higher nightly rates.
 Outer neighbourhoods: More affordable, attracting long-stay guests and budget-conscious travelers.
-# 👥 Capacity vs. Pricing
+👥 Capacity vs. Pricing
 Small units (1–2 guests): Most common, with high competition and moderate pricing.
 Medium capacity (3–6 guests): Balanced segment with strong demand and attractive revenue potential.
 Large capacity (7+ guests): Less common, higher variability in pricing.
-# 📊 Key Visualizations
+📊 Key Visualizations
 Growth of Airbnb listings in Paris (2008–2021)
 Price distribution (boxplot, histogram, KDE)
 Average price by neighbourhood
