@@ -36,3 +36,38 @@ Jupyter Notebook: Interactive analysis
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project overview
 ├── LICENSE                 # MIT License
+
+## Reproducibility & Notes
+All analysis is contained in the Jupyter notebook airbnb-impact-of-regulation.ipynb.
+The environment requires Python 3.8+ with packages listed in requirements.txt.
+Random seeds (where applicable) are set for reproducibility of sampling or statistical checks.
+The datasets used come from publicly available Airbnb data snapshots on Kaggle / Inside Airbnb. Ensure you have the same raw snapshot for consistent results.
+
+## Future Work
+Extend the study to cross-city comparisons (e.g., Paris vs. Berlin, Amsterdam, London).
+Add time-series forecasting (e.g., ARIMA, Prophet) to predict pricing and demand.
+Build an interactive dashboard (Plotly Dash, Power BI, or Tableau) for stakeholders.
+Incorporate geospatial analysis with geopandas to visualize neighbourhood trends in detail.
+Run counterfactual simulations to estimate market behaviour without regulation.
+
+## Contributing
+
+Contributions are welcome! 🚀
+You can help improve this project by:
+
+Adding enhanced data-cleaning scripts or validation checks
+Improving visualizations (e.g., interactive dashboards)
+Extending analysis with predictive modelling
+Providing clearer documentation or additional insights
+
+To contribute:
+
+Fork this repository
+Create a feature branch (git checkout -b feature-name)
+Commit changes and push (git push origin feature-name)
+Open a Pull Request  
+
+## Acknowledgements
+Inside Airbnb and Kaggle datasets for providing the listing and review data used in this project.
+Paris city housing regulations & policy reports for regulatory context.
+Open-source Python community for libraries that made this analysis possible.
