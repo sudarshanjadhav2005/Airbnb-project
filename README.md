@@ -10,17 +10,20 @@ Evaluate the impact of regulation on new host entries and listing activity.
 Explore pricing dynamics, including distribution, affordability, and shifts over time.
 Compare neighbourhood-level average prices to understand premium vs. budget areas.
 Generate business insights for hosts, customers, and policymakers.
+
 #Quick Summary of Findings
 Strong growth pre-2017: Rapid expansion of listings with competitive pricing.
 Regulation slowdown (2017 onward): Noticeable dip in new host entries, with supply growth stabilizing.
 Demand resilience: Despite supply restrictions, customer demand and occupancy remained steady.
 Pricing patterns: Competition pre-2017 kept prices moderate; post-regulation, supply constraints drove price increases in popular neighbourhoods.
 Locality insights: Central Paris remains premium, while outer arrondissements attract budget-conscious travelers.
+
 #Tech Stack
 Python (pandas, numpy): Data cleaning & processing
 Matplotlib / Seaborn: Data visualization
 Scipy / Statsmodels (optional): Statistical analysis
 Jupyter Notebook: Interactive analysis
+
 #Repo Structure
 ├── data/
 │   ├── raw/                # Original Airbnb listings & reviews datasets
