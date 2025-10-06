@@ -37,6 +37,8 @@ Jupyter Notebook: Interactive analysis
 ├── README.md               # Project overview
 ├── LICENSE                 # MIT License
 
+# Here are some key visualizations from the analysis:
+
 ## 📊Results
 
 The analysis produced several insights into the Paris Airbnb market and the effect of regulations:
