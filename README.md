@@ -1,8 +1,10 @@
+![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
 # Airbnb-project
 
 ## Overview
 
 This project analyzes the impact of regulations on the Airbnb market in Paris, focusing on how host participation, pricing, and locality-level dynamics evolved over time. Using listing and review datasets from Airbnb, the study explores trends in affordability, distribution of prices across neighborhoods, and how policy interventions reshaped supply and demand.
+---
 
 ## Key Objectives
 Assess Airbnb supply and host participation trends in Paris.
