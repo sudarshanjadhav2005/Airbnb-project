@@ -39,6 +39,15 @@ Jupyter Notebook: Interactive analysis
 
 # Here are some key visualizations from the analysis:
 
+* **Growth of Airbnb Listings in Paris**
+  ![Listings Growth](images/listings_growth.png)
+
+* **Average Price by Locality**
+  ![Price by Locality](images/price_locality.png)
+
+* **Impact of 2017 Regulation on Host Entries**
+  ![Regulation Impact](images/regulation_impact.png)
+
 ## 📊Results
 
 The analysis produced several insights into the Paris Airbnb market and the effect of regulations:
