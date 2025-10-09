@@ -46,7 +46,7 @@ Jupyter Notebook: Interactive analysis
   ![Price by Locality](https://github.com/sudarshanjadhav2005/Airbnb-project/blob/main/image/price_locality.png)
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](images/regulation_impact.png)
+  ![Regulation Impact](https://github.com/sudarshanjadhav2005/Airbnb-project/blob/main/image/regulation_impact.png)
 
 ## 📊Results
 
