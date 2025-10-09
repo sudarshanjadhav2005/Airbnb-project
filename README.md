@@ -1,41 +1,65 @@
 ![Stunning Paris Airbnb](https://i.ytimg.com/vi/kNdMA4LXhSA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCW3ZZcC8bABmib3FhTQNzooyd3cA)
 # 🏠Airbnb-project
 
-## 🎯Overview
+# 🏠 Airbnb Paris Analysis
 
-This project analyzes the impact of regulations on the Airbnb market in Paris, focusing on how host participation, pricing, and locality-level dynamics evolved over time. Using listing and review datasets from Airbnb, the study explores trends in affordability, distribution of prices across neighborhoods, and how policy interventions reshaped supply and demand.
+This project explores the evolution of the Airbnb market in Paris, focusing on how regulations, locality trends, and pricing dynamics have influenced both **host participation** and **customer demand**.
 
+The analysis covers **data cleaning, exploratory data analysis (EDA), and insights generation** with clear visualizations and business recommendations.
 
-## 📊Key Objectives
-Assess Airbnb supply and host participation trends in Paris.
-Evaluate the impact of regulation on new host entries and listing activity.
-Explore pricing dynamics, including distribution, affordability, and shifts over time.
-Compare neighbourhood-level average prices to understand premium vs. budget areas.
-Generate business insights for hosts, customers, and policymakers.
+---
 
-## 🚀Quick Summary of Findings
-Strong growth pre-2017: Rapid expansion of listings with competitive pricing.
-Regulation slowdown (2017 onward): Noticeable dip in new host entries, with supply growth stabilizing.
-Demand resilience: Despite supply restrictions, customer demand and occupancy remained steady.
-Pricing patterns: Competition pre-2017 kept prices moderate; post-regulation, supply constraints drove price increases in popular neighbourhoods.
-Locality insights: Central Paris remains premium, while outer arrondissements attract budget-conscious travelers.
+## 📌 Objectives
 
-## 🛠️Tech Stack
-Python (pandas, numpy): Data cleaning & processing
-Matplotlib / Seaborn: Data visualization
-Scipy / Statsmodels (optional): Statistical analysis
-Jupyter Notebook: Interactive analysis
+* Understand Airbnb supply trends in Paris (2008–2021).
+* Analyze the impact of the **2017 rental regulations** on host participation.
+* Explore **locality-wise pricing patterns** and affordability.
+* Study the relationship between **accommodation capacity** and average price.
+* Provide **business insights & recommendations** for stakeholders.
 
-## 📂Repo Structure
-├── data/
-│   ├── raw/                # Original Airbnb listings & reviews datasets
-│   ├── cleaned/            # Processed/filtered datasets for Paris
-├── notebooks/
-│   ├── airbnb-impact-of-regulation.ipynb
-├── images/                 # Visualizations (price distributions, neighbourhood insights)
-├── requirements.txt        # Python dependencies
-├── README.md               # Project overview
-├── LICENSE                 # MIT License
+---
+
+## 📊 Key Insights
+
+* **Rapid Growth (2008–2016):** Strong host entry and expansion of listings.
+* **Regulatory Shift (2017):** Significant slowdown in new hosts entering the market.
+* **Resilient Demand:** Despite fewer new listings, customer demand stayed stable.
+* **Pricing Trends:** Competition lowered prices pre-2017, but post-regulation supply constraints pushed prices upward.
+* **Locality Insights:** Central Paris commands premium prices, while outer neighborhoods attract budget travelers.
+
+---
+
+## 🚀 Recommendations
+
+* Focus on **premium central areas** while maintaining offerings in budget-friendly neighborhoods.
+* Implement **dynamic pricing** to balance supply-demand fluctuations.
+* Diversify listings, especially targeting **medium-capacity stays (3–6 guests)**.
+* Strengthen **customer experience** with quality listings and repeat-stay strategies.
+* Stay compliant and adapt to evolving **local regulations** for long-term sustainability.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Python** (pandas, numpy) – Data cleaning & processing
+* **Matplotlib / Seaborn** – Data visualization
+* **Jupyter Notebook** – Interactive analysis
+
+---
+
+## 📂 Project Structure
+
+```
+├── data/                  # Raw & cleaned datasets
+├── notebooks/             # Jupyter notebooks
+├── images/                # Visualizations exported from notebooks
+├── requirements.txt       # Dependencies
+├── LICENSE                # License file (MIT)
+├── README.md              # Project overview (this file)
+```
+
+Dataset link - (https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+
 
 # Here are some key visualizations from the analysis:
 
