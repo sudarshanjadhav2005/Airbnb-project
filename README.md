@@ -58,7 +58,7 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 ├── README.md              # Project overview (this file)
 ```
 
-Dataset link - (https://github.com/sudarshanjadhav2005/Airbnb-project/blob/main/airbnb-impact-of-regulation%20(1).ipynb)
+Dataset link - (https://github.com/sudarshanjadhav2005/Airbnb-project/blob/main/Airbnb%20Analytics%20Hub.ipynb)
 
 
 # Here are some key visualizations from the analysis:
