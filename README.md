@@ -1,5 +1,5 @@
 ![Stunning Paris Airbnb](https://i.ytimg.com/vi/kNdMA4LXhSA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCW3ZZcC8bABmib3FhTQNzooyd3cA)
-# 🏠Airbnb-project
+
 
 # 🏠 Airbnb Paris Analysis
 
@@ -58,7 +58,7 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 ├── README.md              # Project overview (this file)
 ```
 
-Dataset link - (https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+Dataset link - (https://github.com/sudarshanjadhav2005/Airbnb-project/blob/main/airbnb-impact-of-regulation%20(1).ipynb)
 
 
 # Here are some key visualizations from the analysis:
