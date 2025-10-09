@@ -40,7 +40,7 @@ Jupyter Notebook: Interactive analysis
 # Here are some key visualizations from the analysis:
 
 * **Growth of Airbnb Listings in Paris**
-  ![Listings Growth](images/listings_growth.png)
+  ![Listings Growth](https://github.com/sudarshanjadhav2005/Airbnb-project/blob/main/image/listings_growth.png)
 
 * **Average Price by Locality**
   ![Price by Locality](images/price_locality.png)
