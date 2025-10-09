@@ -1,4 +1,4 @@
-![Stunning Paris Airbnb](https://www.smarthouse.com.au/wp-content/uploads/2024/03/image-airbnb-scaled-1.jpg)
+![Stunning Paris Airbnb](https://i.ytimg.com/vi/kNdMA4LXhSA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCW3ZZcC8bABmib3FhTQNzooyd3cA)
 # 🏠Airbnb-project
 
 ## 🎯Overview
