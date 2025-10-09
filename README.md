@@ -43,7 +43,7 @@ Jupyter Notebook: Interactive analysis
   ![Listings Growth](https://github.com/sudarshanjadhav2005/Airbnb-project/blob/main/image/listings_growth.png)
 
 * **Average Price by Locality**
-  ![Price by Locality](images/price_locality.png)
+  ![Price by Locality](https://github.com/sudarshanjadhav2005/Airbnb-project/blob/main/image/price_locality.png)
 
 * **Impact of 2017 Regulation on Host Entries**
   ![Regulation Impact](images/regulation_impact.png)
